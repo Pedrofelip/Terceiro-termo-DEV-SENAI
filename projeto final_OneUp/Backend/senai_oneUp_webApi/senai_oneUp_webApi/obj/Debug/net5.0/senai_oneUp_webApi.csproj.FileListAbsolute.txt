@@ -1,0 +1,405 @@
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CopyComplete
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+D:\Users\Gigabyte\Desktop\OneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache
+D:\Users\Gigabyte\Desktop\oneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\oneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\Gigabyte\Desktop\oneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Gigabyte\Desktop\oneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Gigabyte\Desktop\oneUp projeto final\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+<<<<<<< HEAD
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.AssemblyReference.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache
+=======
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.AssemblyReference.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\FIC\Desktop\Andre\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache
+>>>>>>> 7af6c914caf77984376f6aec5f9ad9ff3af31176
+C:\Users\46889811801\Desktop\oneUp projeto final\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CopyComplete
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.AssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CopyComplete
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\1up\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.AssemblyReference.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CopyComplete
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\oneUp back\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache
+>>>>>>> Back
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.exe
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.deps.json
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.json
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.runtimeconfig.dev.json
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.AssemblyReference.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfoInputs.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.AssemblyInfo.cs
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CoreCompileInputs.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.Manifest.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\staticwebassets\senai_oneUp_webApi.StaticWebAssets.xml
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_oneUp_webApi.styles.css
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.csproj.CopyComplete
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\ref\senai_oneUp_webApi.dll
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.pdb
+C:\Users\46889811801\Desktop\BranchTeste\oneupwebapp\Backend\senai_oneUp_webApi\senai_oneUp_webApi\obj\Debug\net5.0\senai_oneUp_webApi.genruntimeconfig.cache

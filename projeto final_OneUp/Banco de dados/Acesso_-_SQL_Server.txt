@@ -1,0 +1,7 @@
+- Endpoint: aa1rkwleda6gl6r.c8lp4wmw1myz.us-east-1.rds.amazonaws.com
+
+Authentication: SQL Server Authentication
+
+- User: userrds
+- Senha: 3IgQludX
+

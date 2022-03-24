@@ -1,0 +1,20 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cardR {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    justify-content: space-between;
+    background-color: white;
+    height: 55px;
+}
+
+.areaInf {
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    align-items: center;
+}

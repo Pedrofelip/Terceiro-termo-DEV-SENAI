@@ -1,0 +1,61 @@
+.tituloR {
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.espacoRepresentante {
+    width: 100%;
+    height: auto;
+}
+
+
+.flexR {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.cardR {
+    display: flex;
+    width: 90%;
+    margin-top: 20px;
+    justify-content: space-between;
+    background-color: white;
+    height: 55px;
+}
+
+.areaInf {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.areaBtnr {
+    width: 10%;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    margin-top: 20px;
+}
+
+.btnLixo {
+    width: 20px;
+    height: 20px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.btnLixo:active {
+    transform: translateY(1px);
+}
+
+.btnLixo img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

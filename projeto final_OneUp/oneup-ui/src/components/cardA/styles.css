@@ -1,0 +1,67 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.espacoCard {
+    display: flex;
+    width: 90%;
+    height: 120px;
+    margin-top: 10px;
+}
+
+.card {
+    width: 100%;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: #f7f7f7;
+}
+
+.cima {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cima span {
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.cima h2 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.baixo {
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+
+.esquerda {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.esquerda p {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.direita {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.direita p {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}

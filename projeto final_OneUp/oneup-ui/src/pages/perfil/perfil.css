@@ -1,0 +1,197 @@
+.geralP {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.tituloP {
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.cardsArea {
+    width: 100%;
+    height: auto;
+}
+
+.areaBtn {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+}
+
+.espacoBtn {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+.btnEsq {
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.btnDir {
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.btnG {
+    width: 200px;
+    height: 55px;
+    background-color: #3E109F;
+    border: 2px solid #3E109F;
+    border-radius: 3px;
+    color: #F0F0F0;
+    transition-duration: 0.4s;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btnG:hover {
+    background-color: #fff;
+    color: #3E109F;
+}
+
+.btnG:active {
+    transform: translateY(1px);
+}
+
+.ui-modal__close-button{
+    cursor: pointer;
+    float: right;
+    background: unset;
+    border: unset;
+}
+
+.modal-header p {
+    font-size: 20px;
+}
+
+.modal-body {
+    margin-top: 10px;
+}
+
+.modal-body p{
+    font-size: 15px;
+}
+
+
+
+.flex {
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    display: flex;
+}
+
+.espacoCard {
+    display: flex;
+    width: 90%;
+    height: 120px;
+    margin-top: 10px;
+}
+
+.card {
+    width: 100%;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: #f7f7f7;
+}
+
+.cima {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cima span {
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.cima h2 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.baixo {
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+
+.esquerda {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.esquerda p {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.direita {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.direita p {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.presenca {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.espacoPresenca {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.espacoPresenca img {
+    width: 20px;
+    height: 20px;
+}
+
+.espacoPresenca button {
+    background-color: #f0f0f0;
+}
+
+.btnNao {
+    cursor: pointer;
+}
+
+.btnNao:active {
+    transform: translateY(1px);
+}
+
+.btnSim {
+    cursor: pointer;
+}
+
+.btnSim:active {
+    transform: translateY(1px);
+}
